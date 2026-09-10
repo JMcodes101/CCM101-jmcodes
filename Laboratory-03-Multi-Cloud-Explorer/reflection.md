@@ -1,0 +1,11 @@
+# Reflection on the Multi-Cloud Exploration
+
+Among AWS, Microsoft Azure, and Google Cloud, Google Cloud impressed me the most. I became interested in its focus on artificial intelligence, data analytics, and containerized applications. Services such as Vertex AI, BigQuery, and Google Kubernetes Engine show how one platform can support projects ranging from data exploration to modern software deployment. I also found its cloud console organized and approachable for someone who is still learning cloud technologies.
+
+The three platforms share many important features despite using different service names. Each provider offers virtual machines, object storage, managed databases, private networks, identity management, monitoring, and Kubernetes services. They also allow organizations to adjust resources as demand changes and distribute applications across several locations for better availability. These similarities show that all three providers can support common business workloads.
+
+Business requirements strongly influence the choice of a cloud platform. An organization must consider its current systems, employee skills, expected number of users, security needs, budget, and plans for expansion. Azure may suit a Microsoft-based organization, while AWS can support companies needing many service options. Google Cloud can be appropriate when data, AI, or Kubernetes is a major priority.
+
+Acting as a Cloud Solutions Consultant taught me that cloud selection requires careful comparison. I learned to connect technical services with actual client problems instead of recommending a platform only because it is popular. The recommendation must explain how specific services can improve performance, manage growth, protect information, and support the client’s goals.
+
+This activity also improved my GitHub Cloud Computing Portfolio. I practiced organizing related documents into folders, creating comparison tables, linking screenshots, and writing meaningful commit messages. The portfolio now provides clearer evidence of my research process and developing cloud-computing skills. It can also serve as a reference when I study more advanced topics in networking, databases, Linux administration, and application deployment.
