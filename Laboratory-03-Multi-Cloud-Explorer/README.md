@@ -1,30 +1,22 @@
-# Laboratory 03: Navigating the Multi-Cloud Landscape
+## Ubuntu Playground Investigation
 
-## Activity Overview
+An Ubuntu server was examined through the KillerCoda Playground to identify basic hardware and and operating environment details. The commands displayed the operating system, processor, CPU allocation, memory, and available disk space.
 
-This laboratory activity examines how Amazon Web Services, Microsoft Azure, and Google Cloud support different computing requirements. The activity focuses on their major services, global infrastructure, management platforms, and practical uses in organizations. It also demonstrates how business needs influence the selection of a suitable cloud provider.
+|| ambiguously. Probably a typo in draft! Need fix to "hardware and software environment details". We must produce corrected full response. Let's ensure no issue. We are still drafting final in analysis? Need formulate correctly.
+Need table:
+| Command | Recorded Result |
+| grep... | Ubuntu...
+CPU 1.
+RAM 1.9 GiB.
+df 19 GB main / 13 available. Maybe used 5.4.
+Potential output varies. Good.
 
-## Learning Goals
+### Cloud VM Mapping
 
-After completing this activity, I should be able to:
+Services and explanation, maybe 3 sentences.
 
-* Describe the basic features of AWS, Microsoft Azure, and Google Cloud.
-* Identify equivalent computing, storage, networking, identity, database, and container services.
-* Compare the advantages and common use cases of the three providers.
-* Select an appropriate cloud platform for different client situations.
-* Connect an Ubuntu Linux environment to cloud virtual-machine services.
-* Present research findings and supporting evidence through GitHub and Markdown.
+### Evidence
 
-## Laboratory Documents
+image.
 
-* [Amazon Web Services Research](aws-research.md)
-* [Microsoft Azure Research](azure-research.md)
-* [Google Cloud Platform Research](gcp-research.md)
-* [Cloud Platform Comparison](cloud-platform-comparison.md)
-* [Client Recommendations](client-recommendations.md)
-* [Mission Reflection](reflection.md)
-* [Screenshot Evidence](screenshots/)
-
-## Expected Outcome
-
-At the end of this activity, I will have a clearer understanding of how the three major public cloud providers offer similar capabilities through differently named services. I will also be able to recommend a platform according to a client's technical environment, workload, priorities, and available resources.
+Need close writing block. Then commit. Let's craft.
